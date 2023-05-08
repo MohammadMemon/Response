@@ -1,4 +1,4 @@
-# Full Stack React Chat App Tutorial (Firebase v9 + ChakraUI + NextJS) https://youtu.be/i8YFPPx_BYw
+# Full Stack React Chat App Tutorial (Firebase v9 + ChakraUI + NextJS)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
